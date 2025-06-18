@@ -23,9 +23,10 @@ const Home = () => {
   className="hidden md:block w-[90%] max-w-[420px] mb-[30px] md:w-[40%] md:mb-[10px]"
 />
 
-         <p className="max-w-[700px] mb-[20px] text-white text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl">
+         <p className="hidden md:block max-w-[700px] mb-[20px] text-white text-lg lg:text-xl xl:text-2xl">
   Discovering his ties to a secret ancient order, a younger man living in modern Istanbul embarks on a quest to save the city from an enemy.
 </p>
+
 
 <div className="flex gap-2 mb-[50px] sm:mb-[30px]">
   <button className="flex items-center gap-2 px-5 py-2 font-semibold text-black bg-white rounded hover:bg-white/75 transition text-xs sm:px-[10px] sm:py-[4px] sm:gap-[5px]">
