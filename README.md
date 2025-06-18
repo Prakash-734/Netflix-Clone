@@ -4,14 +4,13 @@ A responsive and feature-rich **Netflix Clone** built using **React**, **TypeScr
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔐 User Authentication (Sign Up, Log In, Log Out) with Firebase
-- 📺 Movie categories using TMDB API
-- 🔍 Clean, modern UI using Tailwind CSS
-- 🎥 Responsive video preview and details page
-- ⚡ Horizontal scroll movie carousels
-- 🌓 Fully responsive for desktop and mobile
+- User Authentication (Sign Up, Log In, Log Out) with Firebase
+- Movie categories using TMDB API
+- Clean, modern UI using Tailwind CSS
+- Responsive video preview and details page
+- Fully responsive for desktop and mobile
 
 ---
 
