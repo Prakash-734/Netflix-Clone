@@ -1,0 +1,53 @@
+.title-cards {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.title-cards h2{
+    margin-bottom: 8px;
+    font-size: 32px;
+    font-weight: bold;
+
+}
+
+.card-list {
+    display: flex;
+    gap: 5px;
+}
+
+.card-list img {
+    width: 500px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+@media (max-width: 1024px) {
+  .card-list img {
+    width: 200px;
+  }
+
+  .title-cards h2 {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 800px) {
+  .card-list img {
+    width: 180px;
+  }
+
+  .title-cards h2 {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 500px) {
+  .card-list img {
+    width: 140px;
+  }
+
+  .title-cards h2 {
+    font-size: 20px;
+  }
+}
